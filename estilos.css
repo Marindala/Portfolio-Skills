@@ -70,9 +70,9 @@ body {
     white-space: nowrap;
 }
 
-@keyframes prog-25 {
+@keyframes prog-60 {
     0% {width: 0}
-    100% {width: 25%}
+    100% {width: 60%}
 }
 
 @keyframes prog-50 {
@@ -106,7 +106,7 @@ body {
     justify-content: space-between;
 }
 
-.encabezado h4 {
+.encabezado h3 {
 }
 
 .botones-encabezado {
@@ -124,8 +124,8 @@ body {
     border-radius: 20px;
 }
 
-.animacion-barra-25 {
-    animation: prog-25 5s linear forwards;
+.animacion-barra-60 {
+    animation: prog-60 5s linear forwards;
 }
 .animacion-barra-50 {
     animation: prog-50 5s linear forwards;
@@ -137,6 +137,6 @@ body {
     animation: prog-100 5s linear forwards;
 }
 
-.bg-marina {
-    background-color: red !important;
+.bg-camilo {
+    background-color: rebeccapurple !important;
 }
